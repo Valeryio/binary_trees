@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_node - create a binary tree node
- * 
+ *
  * @parent: (binary_tree), the parent tree
  * @value: (int), the value of the new node
  * Description: This function creates a new node
